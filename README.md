@@ -1,1 +1,0 @@
-# step-projector-app
